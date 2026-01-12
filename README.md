@@ -48,8 +48,8 @@ The project emphasizes **clean data preprocessing, feature engineering, and mode
 
 ## Evaluation Metrics
 
-- **Accuracy**
-- **ROC AUC**
+- **Accuracy: 0.90**
+- **ROC AUC: 0.96**
   - Chosen due to class imbalance
   - Focuses on ranking buyers above non-buyers
 
